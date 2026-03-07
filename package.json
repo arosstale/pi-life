@@ -1,6 +1,6 @@
 {
   "name": "pi-life",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conway's Game of Life for pi — interactive cellular automaton with patterns and themes",
   "pi-extension": "extensions/pi-life.ts",
   "keywords": [
